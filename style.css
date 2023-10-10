@@ -1,0 +1,21 @@
+:root {
+    --background-color: #efe7e5;
+    --text-color: black;
+  }
+  
+  body {
+    margin: 3% 15%;
+    font-family: "Roboto", sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+
+  nav li {
+    margin-top: 35vh;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    cursor: pointer;
+  }
+
+
